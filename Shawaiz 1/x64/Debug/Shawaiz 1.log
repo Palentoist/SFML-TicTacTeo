@@ -1,0 +1,10 @@
+﻿  TicTacToe.cpp
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(50,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(54,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(76,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(76,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(82,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(82,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(92,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\Shawaiz 1\TicTacToe.cpp(92,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Shawaiz 1.vcxproj -> C:\Users\Dell\source\repos\Shawaiz 1\x64\Debug\Shawaiz 1.exe
